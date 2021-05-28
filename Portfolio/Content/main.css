@@ -1270,6 +1270,10 @@ td, th {
   background: url('../img/berlin2.jpg') no-repeat center center/cover;
 }
 
+.single-filter-content.content-9 {
+    background: url('../img/wide_cake.jpeg')no-repeat center center/cover;
+}
+
 .single-member {
   margin-top: 30px;
 }

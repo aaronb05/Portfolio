@@ -142,12 +142,14 @@
     <Content Include="img\AmsterdaamPic.jpg" />
     <Content Include="img\berlin1.jpg" />
     <Content Include="img\berlin2.jpg" />
+    <Content Include="img\cake.jpeg" />
     <Content Include="img\cSharpIcon.jpg" />
     <Content Include="img\cssicon.png" />
     <Content Include="img\Hapsburg1.jpg" />
     <Content Include="img\Hapsburg2.jpg" />
     <Content Include="img\html5ico.png" />
     <Content Include="img\jsicon.jpg" />
+    <Content Include="img\narrow_cake.jpeg" />
     <Content Include="img\Prague4.jpg" />
     <Content Include="img\PragueCastle.jpg" />
     <Content Include="img\pragueClock.jpg" />
@@ -157,6 +159,7 @@
     <Content Include="img\ViennaCity.jpg" />
     <Content Include="img\ViennaPalace.jpg" />
     <Content Include="img\ViennaPic.jpg" />
+    <Content Include="img\wide_cake.jpeg" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-2.2.4.min.js" />
     <Content Include="Scripts\jquery.ajaxchimp.min.js" />
